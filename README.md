@@ -1,4 +1,6 @@
-Clone the repositor<br>
+REST API Call using GET Method
+
+Clone the repository<br>
 Run main.py file using command python main.py <br>
 Go to the url: http://0.0.0.0:8082/ <br>
 Here type http://0.0.0.0:8082/convert/ <br>
