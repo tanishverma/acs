@@ -1,5 +1,5 @@
 from flask import Flask
-from . import check
+import check
 app = Flask(__name__)
 
 @app.route("/convert/<string:text>", methods=['GET'])
